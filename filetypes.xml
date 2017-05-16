@@ -5,6 +5,7 @@
       <mapping pattern="Input BuyAction Json LD" type="PLAIN_TEXT" />
       <mapping pattern=".SWEUIBKGenerator.java._trace" type="PLAIN_TEXT" />
       <mapping ext="vnl" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
